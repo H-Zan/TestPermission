@@ -9,16 +9,16 @@ import java.util.List;
  */
 public class Dog {
 	
-	@JsonNode(key="summary")
-	public String title;
-	@JsonNode(key = "description")
+	@JsonNode(key="summary")  
+	public String title;  
+	@JsonNode(key = "description")    
 	public String desc;
 	@JsonNode(key = "location")
 	public String location;
 	@JsonNode(key = "start")
 	public String start;
 	@JsonNode(key = "end")
-	public String end;
+	public String end;     
 	@JsonNode(key = "reminder")
 	public String reminder;
 	@JsonNode(key = "allday")

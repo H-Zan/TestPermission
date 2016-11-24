@@ -34,7 +34,8 @@ import java.util.Locale;
 import java.util.Timer;
 
 /**
- * Created by macmi001 on 16/7/4.
+ * 
+ * Created by huzan on 16/7/4.
  * 设备信息管理
  * 在app 刚启动的时候就要new 获取设备信息 放入
  *
@@ -133,7 +134,7 @@ public class MaiManager {
 
     /**
      * @param _mkt_app
-     *     app 在上述应用商店内的编号
+     * app 在上述应用商店内的编号
      * @NotProguard
      */
     public void setmkt_app(String _mkt_app) {
