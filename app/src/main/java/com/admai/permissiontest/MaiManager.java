@@ -35,8 +35,10 @@ import java.util.Timer;
 
 /**
  * 
+ * 
+ * 
  * Created by huzan on 16/7/4.
- * 设备信息管理
+ * 设备信息管理   test
  * 在app 刚启动的时候就要new 获取设备信息 放入
  *
  * @NotProguard
